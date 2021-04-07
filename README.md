@@ -11,7 +11,7 @@
   
  SDE 1  
  I’m currently student of IIIT Kottayam    
- I’m interested for backend Engineer.  
+ I’m interested for Backend Engineer.  
  Technologies 💬:  
  - React, Express, Django, SQL, MongoDB, Pusher(Realtime chat)  
  - (Deploy) - AWS S3, Postman(API testing), Heroku, Firebase, Netlify, Git  
