@@ -9,7 +9,7 @@
 <br />
 <br />
   
- SDE 1
+ SDE 1  
  I’m currently student of IIIT Kottayam    
  I’m interested for backend Engineer.  
  Technologies 💬:  
