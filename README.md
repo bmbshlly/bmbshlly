@@ -13,7 +13,7 @@
 - SDE 1  
 - I’m interested for backend Engineer.  
 - 💬 Technologies:  
-- React, Express, Django, SQL, MongoDB, Pusher(Realtime chat)  
+    React, Express, Django, SQL, MongoDB, Pusher(Realtime chat)  
 - (Deploy) - AWS S3, Postman(API testing), Heroku, Firebase, Netlify, Git  
 - 👀 Also interested in:  
-- GraphQL, Redis, Cassandra  
+    GraphQL, Redis, Cassandra  
