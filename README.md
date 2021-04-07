@@ -8,9 +8,9 @@
 </a>
 <br />
 <br />
-
- I’m currently student of IIIT Kottayam  
- SDE 1  
+  
+ SDE 1
+ I’m currently student of IIIT Kottayam    
  I’m interested for backend Engineer.  
  Technologies 💬:  
  - React, Express, Django, SQL, MongoDB, Pusher(Realtime chat)  
