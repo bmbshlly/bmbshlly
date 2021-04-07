@@ -6,7 +6,9 @@
 <a href="https://twitter.com/iritik_19">
   <img align="left" alt="Akshay Saini - Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
 </a>
-<br>
+<br />
+<br />
+
 - I’m currently student of IIIT Kottayam  
 - SDE 1  
 - I’m interested for backend Engineer.  
