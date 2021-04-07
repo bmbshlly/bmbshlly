@@ -17,5 +17,3 @@
 - (Deploy) - AWS S3, Postman(API testing), Heroku, Firebase, Netlify, Git  
 - 👀 Also interested in:  
 - GraphQL, Redis, Cassandra  
-<br>
-- ⚡ FunFact: Pineapple on pizza is gr8!
