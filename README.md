@@ -18,3 +18,6 @@
 
  Also interested in 👀:  
  - GraphQL, Redis, Cassandra  
+
+Cheers,  
+Ritik Agrawal
