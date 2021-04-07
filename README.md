@@ -3,7 +3,8 @@
 - 🔭 I’m currently student of IIIT Kottayam
 - 🌱 SDE 1
 - 🤔 I’m interested for backend Engineer.
-- 💬 Ask me about ...
+- 💬 Technologies -
+      - Django
 - ⚡ FunFact: Pineapple on pizza is gr8!
 
 <a href="https://www.linkedin.com/in/bmbshlly">
