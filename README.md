@@ -8,7 +8,7 @@
 </a>
 <br />
 <br />
-  
+<img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="400px" />  
  SDE 1  
  I’m currently student of IIIT Kottayam    
  I’m interested for Backend Engineer.  
