@@ -9,7 +9,7 @@
 <br />
 <br />
 
- SDE 1  
+ SDE 1 • 4* codechef  
  I’m currently student of IIIT Kottayam    
  I’m interested for Backend Engineer.  
  Technologies 💬:  
