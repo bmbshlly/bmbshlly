@@ -21,6 +21,6 @@
  - GraphQL, Redis, Cassandra  
 
 Cheers,  
-Ritik Agrawal
-
+Ritik Agrawal  
+[Resume](https://drive.google.com/file/d/1sZ5srwKwI34-KRLIW4281AlnIdZub5ES/view)
 <img alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="400px" />
