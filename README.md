@@ -11,7 +11,7 @@
 
  SDE 1 • 4* codechef  
  I’m currently student of IIIT Kottayam    
- I’m interested for Backend Engineer.  
+ I’m interested for full stack engineer.  
  Technologies 💬:  
  - React, Express, Django, SQL, MongoDB, Pusher(Realtime chat)  
  - (Deploy) - AWS S3, Postman(API testing), Heroku, Firebase, Netlify, Git  
