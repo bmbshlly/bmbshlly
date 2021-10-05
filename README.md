@@ -22,5 +22,5 @@
 
 Cheers,  
 Ritik Agrawal  
-## [Resume](https://drive.google.com/file/d/1-MXTBjnytE-sr9gAPHgXdc8jd81r5-1B/view?usp=sharing)  
+## [Resume](https://rebrand.ly/ritik-resume)  
 <!--<img alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="400px" />-->
