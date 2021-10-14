@@ -10,15 +10,12 @@
 <br />
 
  SDE 1 • 4* codechef  
- I’m currently student of IIIT Kottayam    
+ I’m a student of IIIT Kottayam    
  I’m interested for full stack engineer.  
- Technologies 💬:  
- - React, Express, Django, SQL, MongoDB, Pusher(Realtime chat)  
- - (Deploy) - AWS S3, Postman(API testing), Heroku, Firebase, Netlify, Git  
- - Python, JavaScript
-
- Also interested in 👀:  
- - GraphQL, Redis, Cassandra  
+ 
+ Technologies :
+  * React, Express, Django, SQL, MongoDB, GraphQL, Redis
+  * Python, JavaScript, TypeScript
 
 Cheers,  
 Ritik Agrawal  
