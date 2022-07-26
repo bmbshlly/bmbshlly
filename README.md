@@ -9,7 +9,7 @@
 <br />
 <br />
 
- SDE • 100ms
+ SDE • 100ms  
  I’m a student of IIIT Kottayam    
  I’m interested for full stack engineer role.  
  
