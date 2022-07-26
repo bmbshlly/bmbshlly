@@ -9,7 +9,7 @@
 <br />
 <br />
 
- SDE 1 • 4* codechef  
+ SDE • 100ms
  I’m a student of IIIT Kottayam    
  I’m interested for full stack engineer role.  
  
